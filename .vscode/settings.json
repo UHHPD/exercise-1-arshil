@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "plot_hist.C": "cpp",
+        "plot_hist_poisson.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
